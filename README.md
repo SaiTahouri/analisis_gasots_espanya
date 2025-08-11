@@ -13,11 +13,16 @@ Este proyecto analiza un conjunto de datos entre los años 2006 y 2023. Fue real
   
 * Resultado: Gráficos, insights claros y visuales
 
-Estado: En progreso / terminado
+Estado: En progreso 
 
 
 * Qué incluye el análisis
-·····································
+Evolución de gastos generales en los últimos años
+Distribución de gasto en vivienda en Canarias
+Consumo de alcohol y tabaco por comunidad autónoma
+y otros análisis
+
+* Los resultados se pueden ver en la carpeta Output
   
 Este proyecto está en desarrollo. Se irá mejorando y añadiendo más análisis próximamente.
 
